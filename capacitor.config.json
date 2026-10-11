@@ -1,0 +1,6 @@
+{
+  "appId": "com.wakeup.travelalarm",
+  "appName": "Wake-Up Travel Alarm",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
